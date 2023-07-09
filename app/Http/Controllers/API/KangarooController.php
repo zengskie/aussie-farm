@@ -6,14 +6,11 @@ use App\Http\Controllers\Controller;
 use App\Http\Requests\KangarooRequest;
 use App\Http\Resources\KangarooResource;
 use App\Models\Kangaroo;
-use App\Traits\ResponseTrait;
 use Illuminate\Http\JsonResponse;
-use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\ResourceCollection;
 
 class KangarooController extends Controller
 {
-    use ResponseTrait;
 
     /**
      * Display a listing of the resource.
