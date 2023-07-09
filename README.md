@@ -19,4 +19,4 @@ This is a test project.
 - PUT: https://aussiefarm.local/api/v1/kangaroos/1
 
 ## Postman Collection
-- https://api.postman.com/collections/20811097-a7bc4fca-7cc2-4727-a59a-d5bf2d6bc0a6?access_key=PMAT-01H4XGN3499QPZZDGGVV20VHXK
+- [https://api.postman.com/collections/20811097-a7bc4fca-7cc2-4727-a59a-d5bf2d6bc0a6?access_key=PMAT-01H4XGN3499QPZZDGGVV20VHXK](https://crimson-station-615048.postman.co/workspace/New-Team-Workspace~2775357a-9c74-4ada-ab07-59669f7238e3/collection/20811097-a7bc4fca-7cc2-4727-a59a-d5bf2d6bc0a6?action=share&creator=20811097)https://crimson-station-615048.postman.co/workspace/New-Team-Workspace~2775357a-9c74-4ada-ab07-59669f7238e3/collection/20811097-a7bc4fca-7cc2-4727-a59a-d5bf2d6bc0a6?action=share&creator=20811097
